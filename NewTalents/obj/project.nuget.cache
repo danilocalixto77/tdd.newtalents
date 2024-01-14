@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h91gH0ne9Y8AFSRu57NRSiJJ2Wa+Xp3A5TQ99e22f/eLwMELNHqZoQkfvo87IqLLpU27Qd4Z4KWqk0UK/EKYUw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\CSharp\\VisualStudio2022\\NewTalents\\NewTalents\\NewTalents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

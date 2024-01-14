@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.exe
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.deps.json
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.runtimeconfig.json
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.dll
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.pdb
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.csproj.AssemblyReference.cache
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfo.cs
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.dll
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\refint\NewTalents.dll
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.pdb
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.genruntimeconfig.cache
+C:\Projetos\CSharp\VisualStudio2022\NewTalents\NewTalents\obj\Debug\net6.0\ref\NewTalents.dll
